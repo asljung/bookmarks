@@ -33,6 +33,9 @@ gem 'devise', '~> 3.0.0.rc'
 #GUI framework
 gem 'zurb-foundation', '~> 4.2.2'
 
+#Prettier forms
+gem 'simple_form', '~> 3.0.0.rc'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
